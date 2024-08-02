@@ -42,7 +42,7 @@
 ### 🎮 Um Pouco de Diversão:
 ![Snake Game](https://github.com/Miguelito2926/Miguelito2926/raw/output/github-contribution-grid-snake.svg)
 
-![Snake GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Dancing Dog GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
